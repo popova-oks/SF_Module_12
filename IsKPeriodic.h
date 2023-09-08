@@ -1,7 +1,5 @@
 #pragma once
 #include <iostream>
-#include <string>
-
 
 bool check_substr(char str[], const size_t len_str, char subs [], size_t len_subs, int &counter)
 {
